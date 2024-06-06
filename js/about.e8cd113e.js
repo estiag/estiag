@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkestiag"]=self["webpackChunkestiag"]||[]).push([[443],{938:function(s,a,n){n.r(a),n.d(a,{default:function(){return f}});var e=n(3396);const t={class:"about padding-side-md"},i=(0,e._)("h1",{class:"bold"},"This is an about page",-1),u=[i];function r(s,a){return(0,e.wg)(),(0,e.iD)("div",t,u)}var c=n(89);const d={},o=(0,c.Z)(d,[["render",r]]);var f=o}}]);
+//# sourceMappingURL=about.e8cd113e.js.map
